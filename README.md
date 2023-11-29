@@ -2,6 +2,17 @@
 
 This Flutter application is a tutorial for implementing Bloc architecture in your Flutter projects. The tutorial is part of a larger programming tutorial series, which will be uploaded to the [Faradars website](https://faradars.org).
 
+## Table of Contents
+
+- [Images](#Images)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Dependencies](#dependencies)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Images 
 
 Cubit Code 
@@ -11,16 +22,6 @@ Cubit Code
 Project UI
 
 ![Project UI Image](Bloc_Counter_App_UI.png)
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
