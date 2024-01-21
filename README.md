@@ -1,6 +1,6 @@
 # Flutter Bloc Tutorial App
 
-This Flutter application is a tutorial for implementing Bloc architecture in your Flutter projects. The tutorial is part of a larger programming tutorial series, which will be uploaded to the [Faradars website](https://faradars.org).
+This Flutter application is a tutorial for implementing Bloc architecture in your Flutter projects. The tutorial is part of a larger programming tutorial series, which is now accessible from [Faradars Bloc Tutorial](https://faradars.org/courses/bloc-architecture-in-flutter-fvflt305).
 
 ## Table of Contents
 
